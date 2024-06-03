@@ -3,4 +3,9 @@
 <h1>Hi, I'm Waizk.</h1>
 <h2 style="font-style: italic;">"Develop a passion for learning. If you do, you will never cease to grow."</h2>
 
+<p>If I want, I can;</p>
+<p>Brazilian;</p>
+<p>17 years old;</p>
+<p>Grizzlies & Corinthians.</p>
+
 <br></br>
